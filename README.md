@@ -1,4 +1,4 @@
-# **README: Session-Based Conversational AI with RAG**
+# **Session-Based Conversational AI with RAG**
 
 ## **Project Overview**
 This project demonstrates a conversational AI system using Retrieval-Augmented Generation (RAG). The system integrates session-based chat history, document embedding, vector search, and a robust question-answering mechanism based on PDFs, websites, and other documents.
