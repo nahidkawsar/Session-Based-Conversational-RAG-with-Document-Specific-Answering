@@ -128,5 +128,5 @@ If you encounter issues or need further assistance, feel free to raise an issue 
 ---
 
 ## **Connect With Me**
-For any queries or collaboration opportunities, feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/h-m-nahid-kawsar/](https://www.linkedin.com/in/h-m-nahid-kawsar-232a86266/)).
+For any queries or collaboration opportunities, feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/h-m-nahid-kawsar/](https://www.linkedin.com/in/h-m-nahid-kawsar-232a86266/).
 
